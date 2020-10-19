@@ -16,7 +16,7 @@ This is a web application based on Spring MVC for managing the information of st
 6. Can view login log, operation log(e.g. add, edit or remove) and system log(e.g. error).
 
 ## Demo
-Staff[https://github.com/Yizhi01/Personnel-Management-System/blob/main/examples/staff_example1.png]
-Department[https://github.com/Yizhi01/Personnel-Management-System/blob/main/examples/department_ex1.png]
-Log[https://github.com/Yizhi01/Personnel-Management-System/blob/main/examples/log_ex1.png]
-Account[https://github.com/Yizhi01/Personnel-Management-System/blob/main/examples/self_ex1.png]
+[Staff](https://github.com/Yizhi01/Personnel-Management-System/blob/main/examples/staff_example1.png)
+[Department](https://github.com/Yizhi01/Personnel-Management-System/blob/main/examples/department_ex1.png)
+[Log](https://github.com/Yizhi01/Personnel-Management-System/blob/main/examples/log_ex1.png)
+[Account](https://github.com/Yizhi01/Personnel-Management-System/blob/main/examples/self_ex1.png)
